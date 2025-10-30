@@ -27,6 +27,13 @@ border-radius: 25%;
 .contact
 {
     color: #6f7bfc;
-
+}
+.project img{
+width: 300px;
+height: 300px;
+margin: 10px;
+border: 2px solid rgb(50, 79, 108); 
+display: block;
+margin: auto;
 }
 
