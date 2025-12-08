@@ -14,10 +14,10 @@ color: #6f7bfc;
     flex-wrap:wrap; 
 } 
 .project {
-width: 30%;
+width: 35%;
 margin: 10px;
 padding: 20px 10px;
-background: Black; 
+background: white; 
 border-radius: 25%;
 }
 .contact
@@ -32,6 +32,7 @@ border: 2px solid rgb(50, 79, 108);
 display: block;
 margin: auto;
 }
+
 
 
 
