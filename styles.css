@@ -1,8 +1,4 @@
-body {
-background: #f8feff;
-font-family:"Times New Roman", Times, serif;
-margin: 40px;
-}
+
 h1 {
 text-align: center;
 color: #6f7bfc;
@@ -21,7 +17,7 @@ color: #6f7bfc;
 width: 30%;
 margin: 10px;
 padding: 20px 10px;
-background: #84bfe0; 
+background: Black; 
 border-radius: 25%;
 }
 .contact
@@ -36,5 +32,6 @@ border: 2px solid rgb(50, 79, 108);
 display: block;
 margin: auto;
 }
+
 
 
