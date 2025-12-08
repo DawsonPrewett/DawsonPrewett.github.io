@@ -14,8 +14,8 @@ color: #6f7bfc;
     flex-wrap:wrap; 
 } 
 .project {
-width: 35%;
-margin: 10px;
+width: 30%;
+margin: 12px;
 padding: 20px 10px;
 background: white; 
 border-radius: 25%;
@@ -32,6 +32,7 @@ border: 2px solid rgb(50, 79, 108);
 display: block;
 margin: auto;
 }
+
 
 
 
